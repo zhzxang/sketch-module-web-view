@@ -1,7 +1,7 @@
 {
-  "name": "sketch-module-web-view",
-  "version": "0.2.6",
-  "description": "A sketch module for creating an complex UI with a webview",
+  "name": "sk-sketch-webview",
+  "version": "0.0.2",
+  "description": "A sketch module for creating an complex UI with a webview(configurable titlebar)",
   "main": "lib/index.js",
   "dependencies": {
     "mocha-js-delegate": "^0.1.1"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieudutour/sketch-module-web-view.git"
+    "url": "git+https://github.com/zhzxang/sketch-module-web-view.git"
   },
   "keywords": [
     "sketch",
@@ -22,10 +22,10 @@
     "webview",
     "ui"
   ],
-  "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
+  "author": "Zhzxang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieudutour/sketch-module-web-view/issues"
+    "url": "https://github.com/zhzxang/sketch-module-web-view/issues"
   },
-  "homepage": "https://github.com/mathieudutour/sketch-module-web-view#readme"
+  "homepage": "https://github.com/zhzxang/sketch-module-web-view#readme"
 }
