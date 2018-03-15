@@ -1,6 +1,6 @@
 {
   "name": "sk-sketch-webview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A sketch module for creating an complex UI with a webview(configurable titlebar)",
   "main": "lib/index.js",
   "dependencies": {
